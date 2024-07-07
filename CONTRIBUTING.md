@@ -1,0 +1,1 @@
+I kinda use blender 4.1 and GIMP for everything you are free to do anything ig. Just stick to normal ratios like 0.5m, 1m, 0.25m, stuff like that. Ask for details in the discord (invite in the repo description)
